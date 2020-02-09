@@ -1,4 +1,4 @@
-# Access log parser #
+# Event log #
 
 ## **Задача**
 Имеется файл events.log вида:
